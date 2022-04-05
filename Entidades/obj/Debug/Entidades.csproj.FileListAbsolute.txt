@@ -1,0 +1,5 @@
+C:\Users\Wensses\source\repos\Diseño_Yeez\Entidades\bin\Debug\Entidades.dll
+C:\Users\Wensses\source\repos\Diseño_Yeez\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Wensses\source\repos\Diseño_Yeez\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Wensses\source\repos\Diseño_Yeez\Entidades\obj\Debug\Entidades.dll
+C:\Users\Wensses\source\repos\Diseño_Yeez\Entidades\obj\Debug\Entidades.pdb
